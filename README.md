@@ -1,2 +1,2 @@
 # simon-game-js
-A simple Simon-game
+A simple Simon-game;
