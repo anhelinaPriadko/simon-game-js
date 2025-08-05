@@ -7,3 +7,5 @@ How to Play:
 -Repeat the exact sequence by clicking the colored buttons.
 -The sequence gets longer each round — test your memory!
 -If you make a mistake, the game ends and you can restart.
+
+https://anhelinapriadko.github.io/simon-game-js/
